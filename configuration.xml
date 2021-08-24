@@ -1,0 +1,11 @@
+<Configuration>
+  <Targets>
+    <Target path="C:\test\MyApplication.ear">
+      <CustomBuildInfo 
+additional_classpath="C:\java\lib;C:\java2\lib"  
+jdk_path="C:\Program Files\Java\jdk1.7"
+ jsp_compiler="C:\Tomcat"/>
+      <Exclude>sampleAngular_b.ts</Exclude>
+    </Target>
+  </Targets>
+</Configuration>
