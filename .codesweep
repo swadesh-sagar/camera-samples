@@ -1,5 +1,6 @@
 name: AndroidJavaScan
 folders:
+    configuration: configuration.xml
     excludes:
         - CameraXBasic/app/src/main/java/com/android/example/cameraxbasic
 verdict:
