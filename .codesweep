@@ -1,4 +1,7 @@
 name: AndroidJavaScan
+folders:
+    excludes:
+        - CameraXBasic/app/src/main/java/com/android/example/cameraxbasic
 verdict:
     max-high: 0
     max-medium: 10
