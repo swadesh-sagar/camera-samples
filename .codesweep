@@ -1,5 +1,8 @@
 name: AndroidJavaScan
-
+ignore:
+    rules:
+        - name: com.hcl.appscan.scanner.Kotlin.rules.ImplicitIntentKotlin
+          language: Android-Java
 verdict:
     max-high: 2
     max-medium: 10
