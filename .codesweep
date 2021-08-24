@@ -1,9 +1,7 @@
 name: AndroidJavaScan
 folders:
     configuration: configuration.xml
-    excludes:
-        - CameraXBasic/app/src/main/java/com/android/example/cameraxbasic
 verdict:
-    max-high: 0
+    max-high: 5
     max-medium: 10
     max-low: 100
