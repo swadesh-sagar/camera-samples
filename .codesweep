@@ -4,6 +4,6 @@ ignore:
         - name: Improper verification of Intent by BroadcastReceiver
           language: Android-Java
 verdict:
-    max-high: 0
+    max-high: 3
     max-medium: 10
     max-low: 100
