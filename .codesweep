@@ -1,7 +1,9 @@
 name: AndroidJavaScan
-folders:
-    configuration: configuration.xml
+ignore:
+    rules:
+        - name: Improper verification of Intent by BroadcastReceiver
+          language: Android-Java
 verdict:
-    max-high: 5
+    max-high: 0
     max-medium: 10
     max-low: 100
