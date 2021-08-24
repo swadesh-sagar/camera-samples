@@ -1,0 +1,16 @@
+{
+"ruleNameIgnoreRules": [
+	{
+"ruleName":"com.hcl.appscan.scanner.Kotlin.rules.ImplicitIntentKotlin",
+"vulnName":"Improper verification of Intent by BroadcastReceiver",
+"language":"Android-Java"
+ },
+{
+"ruleName":"com.ouncelabs.languagelite.nodejs.Rules.NodeJS_PrivateDataExposedviaHTTP",
+"vulnName":"Insecure Configuration of Private Data Exposed via HTTP URL",
+"language":"NodeJS"
+ }
+],
+"findingIgnoreRules":[
+]
+}
