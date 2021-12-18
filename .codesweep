@@ -1,1 +1,6 @@
 name: AndroidJavaScan
+
+verdict:
+    max-high: 4
+    max-medium: 10
+    max-low: 100
