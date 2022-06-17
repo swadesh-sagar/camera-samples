@@ -1,9 +1,9 @@
-name: AndroidJavaScan 10.2.3
+name: AndroidJavaScan 10.2.4
 
 ignore:
     file: custom_scanners_service_ignore.json
     
 verdict:
-    max-high: 1
+    max-high: 3
     max-medium: 10
     max-low: 100
