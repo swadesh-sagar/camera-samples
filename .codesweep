@@ -4,6 +4,6 @@ ignore:
     file: custom_scanners_service_ignore.json
     
 verdict:
-    max-high: 4
+    max-high: 1
     max-medium: 10
     max-low: 100
