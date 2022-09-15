@@ -1,1 +1,6 @@
 name: AndroidJavaScan 10.5
+
+verdict:
+    max-high: 5
+    max-medium: 10
+    max-low: 100
